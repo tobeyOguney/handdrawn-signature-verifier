@@ -1,6 +1,6 @@
 # handdrawn-signature-verifier
 
-Implements the signature verification system described in the paper:
+Implements the signature verification system described in the [paper](https://ieeexplore.ieee.org/document/9757194):
 
     "Online Signature Verification Using Locally
     Weighted Dynamic Time Warping via
